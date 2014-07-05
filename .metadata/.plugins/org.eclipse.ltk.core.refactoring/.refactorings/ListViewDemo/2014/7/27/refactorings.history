@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;poposi.newtypefoundation.simpletoastmessage&apos; to &apos;poposi.newtypefoundation.listviewdemo&apos;&#x0A;- Original project: &apos;ListViewDemo&apos;&#x0A;- Original element: &apos;ListViewDemo/src/poposi.newtypefoundation.simpletoastmessage&apos;&#x0A;- Renamed element: &apos;ListViewDemo/src/poposi.newtypefoundation.listviewdemo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;poposi.newtypefoundation.simpletoastmessage&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;poposi.newtypefoundation.simpletoastmessage" name="poposi.newtypefoundation.listviewdemo" qualified="false" references="true" stamp="1404539606121" textual="false" version="1.0"/>
+</session>

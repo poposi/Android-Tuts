@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/poposi/Android Tuts/.metadata/.plugins/org.eclipse.jdt.core
+2540155747.index
+3287413136.index
+1612495109.index
+4230207503.index

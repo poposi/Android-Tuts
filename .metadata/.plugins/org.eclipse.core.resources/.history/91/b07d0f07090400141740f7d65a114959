@@ -1,0 +1,29 @@
+package poposi.newtypefoundation.listviewdemo;
+
+import poposi.newtypefoundation.simpletoastmessage.R;
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
+
+public class MainActivity extends Activity {
+
+	private Button btnClickMe;
+
+	private Context context;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+
+		super.onCreate(savedInstanceState);
+
+		setContentView(R.layout.activity_main);
+
+		context = this;
+
+		// getting an instance of btnClickMe button, defined in
+
+	}
+}

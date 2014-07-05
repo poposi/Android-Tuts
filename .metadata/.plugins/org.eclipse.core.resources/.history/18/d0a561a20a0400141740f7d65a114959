@@ -1,0 +1,28 @@
+package poposi.newtypefoundation.listviewdemo;
+
+import poposi.newtypefoundation.simpletoastmessage.R;
+import android.app.Activity;
+import android.content.Context;
+import android.os.Bundle;
+
+public class MainActivity extends Activity {
+
+	private Context context;
+	String[] versions = new String[] { "Froyo", "Gingerbread", "Honeycomb 3.2",
+			"Ice Cream Sandwich 4.0.3", "Ice Cream Sandwich 4.0.4",
+			"Jelly Bean 4.1.x", "Jelly Bean 4.2.x", "Jelly Bean 4.3.x",
+			"KitKat" };
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+
+		super.onCreate(savedInstanceState);
+
+		setContentView(R.layout.activity_main);
+
+		context = this;
+
+		// getting an instance of btnClickMe button, defined in
+
+	}
+}
